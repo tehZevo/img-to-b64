@@ -5,7 +5,7 @@ setup(
   version='0.0.0',
   install_requires = [
     "numpy",
-    "opencv-python"
+    # "opencv-python"
   ],
   packages=find_packages()
 )
